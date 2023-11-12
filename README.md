@@ -26,9 +26,9 @@ This project is an Image Recognition App that leverages the capabilities of Blen
 - Unity: [Download Unity](https://unity.com/)
 - Visual Studio or any C# .NET IDE
 
-### Installation
+### Google drive link
 
-1. Clone the repository:
+Because application is large size, you can check it out on google drive link: 
 
    ```bash
-   git clone https://github.com/your-username/Image-Recognition-App.git
+   https://drive.google.com/drive/folders/1CB0m1zji5qfo0Z-MJ_RL3GYaPgF8mKhn?usp=sharing
